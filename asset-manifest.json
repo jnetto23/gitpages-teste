@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ghpages-teste/static/css/main.b100e6da.chunk.css",
-    "main.js": "/ghpages-teste/static/js/main.bf0c3b2e.chunk.js",
-    "main.js.map": "/ghpages-teste/static/js/main.bf0c3b2e.chunk.js.map",
-    "runtime-main.js": "/ghpages-teste/static/js/runtime-main.0cb1832e.js",
-    "runtime-main.js.map": "/ghpages-teste/static/js/runtime-main.0cb1832e.js.map",
-    "static/js/2.bcb9483a.chunk.js": "/ghpages-teste/static/js/2.bcb9483a.chunk.js",
-    "static/js/2.bcb9483a.chunk.js.map": "/ghpages-teste/static/js/2.bcb9483a.chunk.js.map",
-    "index.html": "/ghpages-teste/index.html",
-    "precache-manifest.0924b7c3a29adf8591f5c4f3a76e2c6f.js": "/ghpages-teste/precache-manifest.0924b7c3a29adf8591f5c4f3a76e2c6f.js",
-    "service-worker.js": "/ghpages-teste/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/ghpages-teste/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/gitpages-teste/static/css/main.b100e6da.chunk.css",
+    "main.js": "/gitpages-teste/static/js/main.bf0c3b2e.chunk.js",
+    "main.js.map": "/gitpages-teste/static/js/main.bf0c3b2e.chunk.js.map",
+    "runtime-main.js": "/gitpages-teste/static/js/runtime-main.2560e29c.js",
+    "runtime-main.js.map": "/gitpages-teste/static/js/runtime-main.2560e29c.js.map",
+    "static/js/2.bcb9483a.chunk.js": "/gitpages-teste/static/js/2.bcb9483a.chunk.js",
+    "static/js/2.bcb9483a.chunk.js.map": "/gitpages-teste/static/js/2.bcb9483a.chunk.js.map",
+    "index.html": "/gitpages-teste/index.html",
+    "precache-manifest.1e049a287c22a06f6c3dcf2858631549.js": "/gitpages-teste/precache-manifest.1e049a287c22a06f6c3dcf2858631549.js",
+    "service-worker.js": "/gitpages-teste/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/gitpages-teste/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cb1832e.js",
+    "static/js/runtime-main.2560e29c.js",
     "static/js/2.bcb9483a.chunk.js",
     "static/css/main.b100e6da.chunk.css",
     "static/js/main.bf0c3b2e.chunk.js"
