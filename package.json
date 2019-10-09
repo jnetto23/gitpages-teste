@@ -2,6 +2,7 @@
   "name": "gitpages-teste",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://jnetto23.github.io/gitpages-teste/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
@@ -9,6 +10,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "deploy": "yarn build && yarn gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
